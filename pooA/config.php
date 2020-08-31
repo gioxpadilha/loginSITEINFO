@@ -1,7 +1,7 @@
 <?php
 	session_start();
-	define("HOME_URI", "http://localhost/pooA/");
-	define("HOME_DIR", "C:\Program Files\VertrigoServ\www\pooA/");
+	define("HOME_URI", "https://trabalho-info.000webhostapp.com/");
+	define("HOME_DIR", "./");
 	
 	define('SGBD','mysql');
 	define('HOST_DB', 'localhost');
